@@ -1,0 +1,50 @@
+{"student": [
+
+{
+	"student1": 
+    	[{"name":[{"first_name": "munish"	}, {"lastname": "deora"}]},
+    	 {"age":22},
+    	 {"sex":"male"},
+    	 {"mobile_no":[{"first_no": 8561995884	}, {"second_no": 9929994927}]},
+    	 {"email_id":[{"first_id": "munishdeora6631@gmail.com"}, {"second_id": "hello@yahoo.com"}]},
+    	 {"photo":"my_photo"},
+    	 {"class":"5th"},
+    	 {"mother_toung":"hindi"},
+    	 {"attendence":"80%"},
+    	 {"hosteler":true},
+    	 {"category":"general"},
+    	 {"medium":"english"},
+    	 {"language_known":[{"first_language":"english"},{"second_language":"hindi"}]},
+    	 {"rollno":13486},
+    	 {"department":"computer science"},
+    	 {"research_area":["operting system","python programming language"]},
+    	 {"Subject_known":["os","dbms","ds","dsa"]},
+    	 {"DOB":"12/04/2014"},
+    	 {"DOJ":"13/04/2019"},
+    	 {"nationality":"indian"}]
+}, 
+{
+	"student1": 
+    	[{"name":[{"first_name": "nikhil"	}, {"lastname": "singh"}]},
+    	 {"age":32},
+    	 {"sex":"male"},
+    	 {"mobile_no":[{"first_no": 64616346466	}, {"second_no": 161616}]},
+    	 {"email_id":[{"first_id": "oeovneonv@gmail.com"}, {"second_id": "vmelsvlend@yahoo.com"}]},
+    	 {"photo":"nikhil_photo"},
+    	 {"class":"8th"},
+    	 {"mother_toung":"hindi"},
+    	 {"attendence":"50%"},
+    	 {"hosteler":false},
+    	 {"category":"obc"},
+    	 {"medium":"hindi"},
+    	 {"language_known":[{"first_language":"hindi"},{"second_language":"engish"}]},
+    	 {"rollno":46466},
+    	 {"department":"electrical science"},
+    	 {"research_area":["harware system","java programming language"]},
+    	 {"Subject_known":["pc","clang","rlang","php"]},
+    	 {"DOB":"12/04/1996"},
+    	 {"DOJ":"13/04/2594"},
+    	 {"nationality":"indian"}]
+}]
+}
+

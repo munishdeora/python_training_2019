@@ -1,0 +1,32 @@
+{"faculty": [
+
+{
+	"faculty1": 
+    	[{"name":[{"first_name": "selvester"	}, {"lastname": "farnandis"}]},
+    	 {"age":19},
+    	 {"mobile_no":[{"first_no": 8561995884	}, {"second_no": 9929994927}]},
+    	 {"email_id":[{"first_id": "munishdeora6631@gmail.com"}, {"second_id": ""}]},
+    	 {"photo":"https://mail.google.com/mail/u/0/#search/forsk+labs/FMfcgxwDqfMNQpBLjmJrdXZgHQZDvWJF"},
+    	 {"department":"cse"},
+    	 {"research_area":["databasemanagement system","python programming language"]},
+    	 {"Subject_known":["os","dbms","ds","dsa"]},
+    	 {"salary":123513},
+    	 {"DOB":"12/04/2014"},
+    	 {"DOJ":"13/04/2019"}]
+}, 
+{
+	"faculty2": 
+    	[{"name":[{"first_name": "yogendra"	}, {"lastname": "singh"}]},
+    	 {"age":19},
+    	 {"mobile_no":[{"first_no": 3156616166}, {"second_no": 34579445454}]},
+    	 {"email_id":[{"first_id": "yogensdcbk@gmail.com"}, {"second_id": ""}]},
+    	 {"photo":"https://mail.google.com/mail/u/0/#search/forsk+labs/FMfcgxwDqfMNQpBLjmJrdXZgHQZDvWJF"},
+    	 {"department":"it"},
+    	 {"research_area":["tectinal knowlwege","python programming language"]},
+    	 {"Subject_known":["scsdnlsos","dkdcnwlncbms","ddlclwns","dsdconwoa"]},
+    	 {"salary":1288513},
+    	 {"DOB":"15/04/2010"},
+    	 {"DOJ":"20/04/2021"}]
+}]
+}
+

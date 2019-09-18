@@ -1,0 +1,19 @@
+http://api.openweathermap.org/data/2.5/weather
+appi_key:8573b478c87b6c6258bb3a4cefa99666
+username:munishdeora
+password:onlineacess@123
+
+API key: 2881c9abf6cade9ce504
+
+
+650  dent
+400  caping
+600  oil
+1200 chain 
+1000 service
+
+1600 battery
+2000 incurence
+
+1000 rs petrol
+2000 gadi
